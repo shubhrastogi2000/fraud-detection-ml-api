@@ -2,7 +2,6 @@
 venv/
 __pycache__/
 data/*.pkl
-models/*.pkl
 *.pkl
 *.csv
 *.npy
